@@ -3,7 +3,7 @@
 
 ### Introduction
 Training a Linear Linear sagemaker model which examines a text file and performs binary classification 
-labeling that file as either plagiarized or not, depending on how similar that text file is to a provided source text. 
+labeling that file is either plagiarized or not, depending on how similar that text file is to a provided source text. 
 
 Features are created bassed on
 - Containment features for n-gram ranging from 1 to 6.
